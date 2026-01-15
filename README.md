@@ -5,12 +5,17 @@
 - **working_sheet** → Data cleaning and transformations
 - **pivot_table** → Pivot tables for aggregations
 - **dashboard** → Final interactive dashboard with slicers
-## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+## 📊 Dashboard Overview
+![Dashboard](screenshots/Dashboard.png)
 
-## 📊 Pivot Table View
-![Avg Income](screenshots/Avg Income.png)
-![Customer commute](screenshots/Customer-commute.png)
-![Age Bracket](screenshots/Age-Bracket.png)
+## 💰 Average Income Analysis
+![Average Income](screenshots/Avg%20Income.png)
+
+## 👥 Customer Age Bracket
+![Customer Age Bracket](screenshots/Customer%20Age%20Bracket.png)
+
+## 🚲 Customer Commute Distance
+![Customer Commute](screenshots/Customer%20commute.png)
+
 
