@@ -10,7 +10,7 @@
 ![Dashboard](screenshots/dashboard.png)
 
 ## 📊 Pivot Table View
-![Avg Income](screenshots/Avg-Income.png)
+![Avg Income](screenshots/Avg Income.png)
 ![Customer commute](screenshots/Customer-commute.png)
 ![Age Bracket](screenshots/Age-Bracket.png)
 
